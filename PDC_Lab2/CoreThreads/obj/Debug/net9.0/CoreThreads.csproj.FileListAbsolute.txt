@@ -1,0 +1,14 @@
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\bin\Debug\net9.0\CoreThreads.exe
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\bin\Debug\net9.0\CoreThreads.deps.json
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\bin\Debug\net9.0\CoreThreads.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\bin\Debug\net9.0\CoreThreads.dll
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\bin\Debug\net9.0\CoreThreads.pdb
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.dll
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\refint\CoreThreads.dll
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.pdb
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\CoreThreads.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab2\CoreThreads\obj\Debug\net9.0\ref\CoreThreads.dll

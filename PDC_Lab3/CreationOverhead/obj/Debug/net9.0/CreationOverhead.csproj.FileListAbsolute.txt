@@ -1,0 +1,14 @@
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\bin\Debug\net9.0\CreationOverhead.exe
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\bin\Debug\net9.0\CreationOverhead.deps.json
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\bin\Debug\net9.0\CreationOverhead.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\bin\Debug\net9.0\CreationOverhead.dll
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\bin\Debug\net9.0\CreationOverhead.pdb
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.dll
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\refint\CreationOverhead.dll
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.pdb
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\CreationOverhead.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab3\CreationOverhead\obj\Debug\net9.0\ref\CreationOverhead.dll
