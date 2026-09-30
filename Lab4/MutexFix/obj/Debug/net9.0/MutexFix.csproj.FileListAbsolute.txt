@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\bin\Debug\net9.0\MutexFix.exe
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\bin\Debug\net9.0\MutexFix.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\bin\Debug\net9.0\MutexFix.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\bin\Debug\net9.0\MutexFix.dll
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\bin\Debug\net9.0\MutexFix.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.dll
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\refint\MutexFix.dll
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\MutexFix.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab4\MutexFix\obj\Debug\net9.0\ref\MutexFix.dll
