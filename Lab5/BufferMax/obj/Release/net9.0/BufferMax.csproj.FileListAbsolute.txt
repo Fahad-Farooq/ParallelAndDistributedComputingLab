@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\bin\Release\net9.0\BufferMax.exe
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\bin\Release\net9.0\BufferMax.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\bin\Release\net9.0\BufferMax.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\bin\Release\net9.0\BufferMax.dll
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\bin\Release\net9.0\BufferMax.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.dll
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\refint\BufferMax.dll
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\BufferMax.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferMax\obj\Release\net9.0\ref\BufferMax.dll

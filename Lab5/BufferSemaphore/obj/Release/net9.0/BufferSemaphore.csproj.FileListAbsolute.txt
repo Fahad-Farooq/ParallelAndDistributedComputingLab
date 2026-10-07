@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.exe
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.dll
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\bin\Release\net9.0\BufferSemaphore.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.dll
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\refint\BufferSemaphore.dll
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\BufferSemaphore.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab5\BufferSemaphore\obj\Release\net9.0\ref\BufferSemaphore.dll
