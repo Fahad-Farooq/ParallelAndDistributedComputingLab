@@ -1,0 +1,15 @@
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\bin\Release\net10.0\CondSignal.exe
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\bin\Release\net10.0\CondSignal.deps.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\bin\Release\net10.0\CondSignal.runtimeconfig.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\bin\Release\net10.0\CondSignal.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\bin\Release\net10.0\CondSignal.pdb
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.AssemblyInfoInputs.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.AssemblyInfo.cs
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.csproj.CoreCompileInputs.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.sourcelink.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\refint\CondSignal.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.pdb
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\CondSignal.genruntimeconfig.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\CondSignal\obj\Release\net10.0\ref\CondSignal.dll
