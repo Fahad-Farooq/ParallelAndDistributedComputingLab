@@ -1,0 +1,15 @@
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\bin\Release\net10.0\PhaseBarrier.exe
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\bin\Release\net10.0\PhaseBarrier.deps.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\bin\Release\net10.0\PhaseBarrier.runtimeconfig.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\bin\Release\net10.0\PhaseBarrier.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\bin\Release\net10.0\PhaseBarrier.pdb
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.AssemblyInfoInputs.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.AssemblyInfo.cs
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.csproj.CoreCompileInputs.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.sourcelink.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\refint\PhaseBarrier.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.pdb
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\PhaseBarrier.genruntimeconfig.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\PhaseBarrier\obj\Release\net10.0\ref\PhaseBarrier.dll

@@ -1,0 +1,15 @@
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\bin\Release\net10.0\LockFreeStack.exe
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\bin\Release\net10.0\LockFreeStack.deps.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\bin\Release\net10.0\LockFreeStack.runtimeconfig.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\bin\Release\net10.0\LockFreeStack.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\bin\Release\net10.0\LockFreeStack.pdb
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.AssemblyInfoInputs.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.AssemblyInfo.cs
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.csproj.CoreCompileInputs.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.sourcelink.json
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\refint\LockFreeStack.dll
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.pdb
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\LockFreeStack.genruntimeconfig.cache
+C:\Users\FahadFarooq\Documents\My Files\University Assignments\7th Semester\PDA Lab\ParallelAndDistributedComputingLab\Lab5\LockFreeStack\obj\Release\net10.0\ref\LockFreeStack.dll

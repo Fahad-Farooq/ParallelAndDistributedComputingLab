@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "dIxkscGbRH4=",
+  "dgSpecHash": "TdIRVrYTlHA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\233167\\Documents\\PDC_Lab\\Lab5\\BufferMax\\BufferMax.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\FahadFarooq\\Documents\\My Files\\University Assignments\\7th Semester\\PDA Lab\\ParallelAndDistributedComputingLab\\Lab5\\BufferMax\\BufferMax.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FahadFarooq\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.20\\microsoft.netcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\FahadFarooq\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.20\\microsoft.windowsdesktop.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\FahadFarooq\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.20\\microsoft.aspnetcore.app.ref.9.0.20.nupkg.sha512",
+    "C:\\Users\\FahadFarooq\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.20\\microsoft.netcore.app.host.win-x64.9.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
