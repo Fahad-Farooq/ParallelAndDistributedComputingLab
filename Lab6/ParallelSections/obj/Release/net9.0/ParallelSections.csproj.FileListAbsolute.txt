@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\bin\Release\net9.0\ParallelSections.exe
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\bin\Release\net9.0\ParallelSections.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\bin\Release\net9.0\ParallelSections.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\bin\Release\net9.0\ParallelSections.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\bin\Release\net9.0\ParallelSections.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\refint\ParallelSections.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ParallelSections.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelSections\obj\Release\net9.0\ref\ParallelSections.dll

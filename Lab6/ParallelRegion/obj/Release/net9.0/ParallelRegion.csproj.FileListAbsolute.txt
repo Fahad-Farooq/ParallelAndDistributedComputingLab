@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\bin\Release\net9.0\ParallelRegion.exe
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\bin\Release\net9.0\ParallelRegion.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\bin\Release\net9.0\ParallelRegion.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\bin\Release\net9.0\ParallelRegion.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\bin\Release\net9.0\ParallelRegion.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\refint\ParallelRegion.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ParallelRegion.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ParallelRegion\obj\Release\net9.0\ref\ParallelRegion.dll

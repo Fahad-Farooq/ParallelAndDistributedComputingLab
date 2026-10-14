@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\bin\Release\net9.0\ScopingBug.exe
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\bin\Release\net9.0\ScopingBug.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\bin\Release\net9.0\ScopingBug.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\bin\Release\net9.0\ScopingBug.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\bin\Release\net9.0\ScopingBug.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\refint\ScopingBug.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ScopingBug.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\ScopingBug\obj\Release\net9.0\ref\ScopingBug.dll

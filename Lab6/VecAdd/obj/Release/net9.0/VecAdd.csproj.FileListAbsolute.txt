@@ -1,0 +1,15 @@
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\bin\Release\net9.0\VecAdd.exe
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\bin\Release\net9.0\VecAdd.deps.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\bin\Release\net9.0\VecAdd.runtimeconfig.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\bin\Release\net9.0\VecAdd.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\bin\Release\net9.0\VecAdd.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.AssemblyInfoInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.AssemblyInfo.cs
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.csproj.CoreCompileInputs.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.sourcelink.json
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\refint\VecAdd.dll
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.pdb
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\VecAdd.genruntimeconfig.cache
+C:\Users\233167\Documents\PDC_Lab\Lab6\VecAdd\obj\Release\net9.0\ref\VecAdd.dll
